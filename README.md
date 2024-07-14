@@ -1,6 +1,5 @@
-# ![Ether Logo](https://example.com/logo.png) Ether Web App
+# <img src="https://i.ibb.co/8YwZGTY/logo-57b4ec1b.png" alt="Ether Logo" width="136.8" height="40"> 
 
-![Ether](client/images/ether_transfer.png)
 
 ## Overview
 
@@ -146,6 +145,8 @@ ether/
 ![Transfer Page](client/images/transfer_page.png)
 *Transfer Page*
 
+![Transactions Page](client/images/transactions_page.png)
+*Transactions Page*
 
 ## Contact
 
